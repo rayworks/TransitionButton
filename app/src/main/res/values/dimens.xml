@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="circle_radius">10dp</dimen>
+    <dimen name="paint_width">2dp</dimen>
+    <dimen name="default_size">30dp</dimen>
+</resources>
